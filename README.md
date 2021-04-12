@@ -1,2 +1,2 @@
-# brin-films-ltd
+# BrinFilms Ltd
 Indie Film Productions and Distributions
